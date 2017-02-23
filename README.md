@@ -6,7 +6,7 @@
 	    <td width=25% valign="top" bgcolor="#1E1E1E"><font face="tahoma" size="5"><u><strong>Resources</strong></u></font>
 		    <p><font face=tahoma size=3><strong>Official Links</strong></font></p>
 			  <font face=tahoma size=2>
-			  <a href="https://signup.na.leagueoflegends.com/en/signup/redownload" target="new">Download Leage of Legends</a><br>
+			  <a href="https://signup.na.leagueoflegends.com/en/signup/redownload" target="new">Download League of Legends</a><br>
 			  <a href="http://www.riotgames.com/" target="new">Riot Games Official Site</a><br>
 			  <a href="http://boards.na.leagueoflegends.com/en/" target="new">The Boards</a><br>
 			  <a href="http://status.leagueoflegends.com/" target="new">Server Status</a><br>
