@@ -1,30 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Epyc's Guide to League of Legends</title>
-<style type="text/css">
-body {
-	background-color: #000000;
-}
-body,td,th {
-	color: #00CC2A;
-}
-a:link {
-	color: #FFFFFF;
-}
-a:visited {
-	color: #E3E3E3;
-}
-a:hover {
-	color: #81FF00;
-}
-a:active {
-	color: #FFF500;
-}
-</style>
-</head>
-
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 <center>
   <table width="100%" border="0" cellspacing="2" cellpadding="1">
